@@ -1,0 +1,10 @@
+item {
+    name: "onions",
+    id: 1,
+    display_name: "onions"
+}
+item {
+    name: "tomatoes",
+    id: 2,
+    display_name: "tomatoes"
+}
