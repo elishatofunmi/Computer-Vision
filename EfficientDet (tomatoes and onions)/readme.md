@@ -12,11 +12,12 @@ EfficientDets is a family of object detection models, which achieves state-of-th
 
 Paper (efficientDet): https://arxiv.org/pdf/1911.09070.pdf 
 
-Roboflow: https://app.roboflow.ai 
-
 Twitter: https://www.twitter.com/elishatofunmi 
 
 **Resulting video**
 
 [![Watch on youtube](https://img.youtube.com/vi/_0C1hfZpQo0/hqdefault.jpg)](https://www.youtube.com/watch?v=_0C1hfZpQo0)
 
+**Reference**
+
+1. Roboflow: https://app.roboflow.ai 
