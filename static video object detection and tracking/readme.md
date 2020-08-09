@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=OJyR6SN9zCg (YouTube)
 
 **Resulting Video**
 
-[![Watch on youtube](https://img.youtube.com/vi/watch?v=rQn_a_681x0/hqdefault.jpg)](https://www.youtube.com/watch?v=rQn_a_681x0)
+[![Watch on youtube](https://img.youtube.com/vi/rQn_a_681x0/hqdefault.jpg)](https://www.youtube.com/watch?v=rQn_a_681x0)
 
 
 
