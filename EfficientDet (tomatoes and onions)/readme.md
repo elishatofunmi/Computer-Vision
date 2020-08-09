@@ -16,4 +16,5 @@ Roboflow: https://app.roboflow.ai
 
 Twitter: https://www.twitter.com/elishatofunmi 
 
-Watch here: https://www.youtube.com/watch?v=_0C1hfZpQo0 
+[![Watch on youtube](https://img.youtube.com/vi/_0C1hfZpQo0/hqdefault.jpg)](https://www.youtube.com/watch?v=_0C1hfZpQo0)
+
