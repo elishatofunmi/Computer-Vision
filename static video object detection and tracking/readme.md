@@ -15,11 +15,12 @@ Paper (MobileNET v3):
 **Video Credit**
 
 https://twitter.com/AIplus_OAU (twitter)
+
 https://www.youtube.com/watch?v=OJyR6SN9zCg (YouTube)
 
 **Resulting Video**
 
-[![Watch on youtube](https://www.youtube.com/watch?v=rQn_a_681x0)
+[![Watch on youtube]](https://www.youtube.com/watch?v=rQn_a_681x0)
 
 
 
