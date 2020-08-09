@@ -8,9 +8,9 @@ This video illustrates a real-time object identification and classification of o
 
 **About EfficientDet**
 
-EfficientDets is a family of object detection models, which achieves state-of-the-art 55.1mAP (mean average precision) on COCO test-dev, yet being 4x - 9x smaller and using 13x - 42x fewer FLOPs than previous detectors. The model also run 2x - 4x faster on GPU, and 5x - 11x faster on CPU than other detectors. Read more about this architecture from the paper below.
+EfficientDets is a family of object detection models, which achieves state-of-the-art 55.1mAP (mean average precision) on COCO test-dev, yet being 4x - 9x smaller and using 13x - 42x fewer FLOPs than previous detectors. The model also run 2x - 4x faster on GPU, and 5x - 11x faster on CPU than other detectors. Read more about this architecture from the paper below.Read more [![here]](https://arxiv.org/pdf/1911.09070.pdf).
 
-Paper (efficientDet): https://arxiv.org/pdf/1911.09070.pdf 
+Paper (efficientDet):  
 
 Twitter: https://www.twitter.com/elishatofunmi 
 
@@ -21,3 +21,5 @@ Twitter: https://www.twitter.com/elishatofunmi
 **Reference**
 
 1. Roboflow: https://app.roboflow.ai 
+
+2. paper EfficientDet: https://arxiv.org/pdf/1911.09070.pdf 
