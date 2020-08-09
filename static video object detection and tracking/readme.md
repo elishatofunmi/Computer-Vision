@@ -22,6 +22,19 @@ https://www.youtube.com/watch?v=OJyR6SN9zCg (YouTube)
 
 [![Watch on youtube](https://img.youtube.com/vi/rQn_a_681x0/hqdefault.jpg)](https://www.youtube.com/watch?v=rQn_a_681x0)
 
+**Connect with me via**
+
+Twitter: https://www.twitter.com/elishatofunmi 
+
+email: elishatofunmi@gmail.com 
+
+Linkedln: https://www.linkedin.com/in/elisha-odemakinde-366705150/
+
+**Reference**
+
+
+
+
 
 
 
