@@ -1,4 +1,4 @@
-**Project Title***
+**Project Title**
 
 TensorFlow Implementation of object detection model (MOBILENET v3) for static videos
 
