@@ -32,7 +32,7 @@ Linkedln: https://www.linkedin.com/in/elisha-odemakinde-366705150/
 
 **Reference**
 
-
+1. TensorFlow Object Detection API: https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
 
 
 
