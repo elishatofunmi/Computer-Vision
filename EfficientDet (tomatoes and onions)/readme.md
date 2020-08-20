@@ -4,7 +4,7 @@ A custom object identification and classification of onions and peppers using Ef
 
 **Project Description**
 
-This video illustrates a real-time object identification and classification of onions and tomatoes using custom efficientDet; which is one of the object detection neural network architecture provided in TensorFlow 2 zoo. The tomatoes and onions were locally collected. This architecture was fully trained using google colab. The dataset was converted to tensorflow record using roboflow. 
+This video illustrates a real-time object identification and classification of onions and peppers using custom efficientDet; which is one of the object detection neural network architecture provided in TensorFlow 2 zoo. The peppers and onions were locally collected. This architecture was fully trained using google colab. The dataset was converted to tensorflow record using roboflow. 
 
 **About EfficientDet**
 
