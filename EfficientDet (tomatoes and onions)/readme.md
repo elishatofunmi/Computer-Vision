@@ -1,6 +1,6 @@
 **Project Title**
 
-A custom object identification and classification of onions and tomatoes using EfficientDet 
+A custom object identification and classification of onions and peppers using EfficientDet 
 
 **Project Description**
 
